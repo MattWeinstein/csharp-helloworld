@@ -1,4 +1,5 @@
 using System.Text.Json;
+using Spectre.Console;
 
 public class TaskService
 {
@@ -44,7 +45,7 @@ public class TaskService
         }
         else
         {
-            Console.WriteLine("Task not found.");
+            AnsiConsole.MarkupLine("[red]Task not found.[/]");
         }
     }
 }

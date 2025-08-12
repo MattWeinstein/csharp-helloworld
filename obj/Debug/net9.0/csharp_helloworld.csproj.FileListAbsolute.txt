@@ -12,3 +12,7 @@
 /Users/mattweinstein/Documents/personal/csharp_helloworld/obj/Debug/net9.0/csharp_helloworld.pdb
 /Users/mattweinstein/Documents/personal/csharp_helloworld/obj/Debug/net9.0/csharp_helloworld.genruntimeconfig.cache
 /Users/mattweinstein/Documents/personal/csharp_helloworld/obj/Debug/net9.0/ref/csharp_helloworld.dll
+/Users/mattweinstein/Documents/personal/csharp_helloworld/bin/Debug/net9.0/Spectre.Console.dll
+/Users/mattweinstein/Documents/personal/csharp_helloworld/obj/Debug/net9.0/csharp_helloworld.csproj.AssemblyReference.cache
+/Users/mattweinstein/Documents/personal/csharp_helloworld/obj/Debug/net9.0/csharp_helloworld.sourcelink.json
+/Users/mattweinstein/Documents/personal/csharp_helloworld/obj/Debug/net9.0/csharp_h.EF479CA2.Up2Date

@@ -1,13 +1,15 @@
 ﻿// See https://aka.ms/new-console-template for more information
+using Spectre.Console;
+
 var service = new TaskService();
 
 while (true)
 {
-    Console.WriteLine("\nTask Tracker");
-    Console.WriteLine("1. List tasks");
-    Console.WriteLine("2. Add task");
-    Console.WriteLine("3. Complete task");
-    Console.WriteLine("4. Exit");
+    AnsiConsole.MarkupLine("[bold cyan]\nTask Tracker[/]");
+    AnsiConsole.MarkupLine("[green]1[/]. List tasks");
+    AnsiConsole.MarkupLine("[green]2[/]. Add task");
+    AnsiConsole.MarkupLine("[green]3[/]. Complete task");
+    AnsiConsole.MarkupLine("[green]4[/]. Exit");
     Console.Write("Choose an option: "); // Not writing the whole line
 
     var choice = Console.ReadLine(); // Read user input
@@ -34,7 +36,7 @@ while (true)
         case "4":
             return;
         default:
-            Console.WriteLine("Invalid choice.");
+            AnsiConsole.MarkupLine("[red]Invalid choice.[/]");
             break;
     }
 }
