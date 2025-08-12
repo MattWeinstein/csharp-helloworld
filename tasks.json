@@ -1,0 +1,22 @@
+[
+  {
+    "Id": 1,
+    "Description": "A new Task",
+    "IsComplete": true
+  },
+  {
+    "Id": 2,
+    "Description": "Homework",
+    "IsComplete": true
+  },
+  {
+    "Id": 3,
+    "Description": "Dishes",
+    "IsComplete": false
+  },
+  {
+    "Id": 4,
+    "Description": "Laundry",
+    "IsComplete": false
+  }
+]

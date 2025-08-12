@@ -1,0 +1,14 @@
+/Users/mattweinstein/Documents/personal/csharp_helloworld/bin/Debug/net9.0/csharp_helloworld
+/Users/mattweinstein/Documents/personal/csharp_helloworld/bin/Debug/net9.0/csharp_helloworld.deps.json
+/Users/mattweinstein/Documents/personal/csharp_helloworld/bin/Debug/net9.0/csharp_helloworld.runtimeconfig.json
+/Users/mattweinstein/Documents/personal/csharp_helloworld/bin/Debug/net9.0/csharp_helloworld.dll
+/Users/mattweinstein/Documents/personal/csharp_helloworld/bin/Debug/net9.0/csharp_helloworld.pdb
+/Users/mattweinstein/Documents/personal/csharp_helloworld/obj/Debug/net9.0/csharp_helloworld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mattweinstein/Documents/personal/csharp_helloworld/obj/Debug/net9.0/csharp_helloworld.AssemblyInfoInputs.cache
+/Users/mattweinstein/Documents/personal/csharp_helloworld/obj/Debug/net9.0/csharp_helloworld.AssemblyInfo.cs
+/Users/mattweinstein/Documents/personal/csharp_helloworld/obj/Debug/net9.0/csharp_helloworld.csproj.CoreCompileInputs.cache
+/Users/mattweinstein/Documents/personal/csharp_helloworld/obj/Debug/net9.0/csharp_helloworld.dll
+/Users/mattweinstein/Documents/personal/csharp_helloworld/obj/Debug/net9.0/refint/csharp_helloworld.dll
+/Users/mattweinstein/Documents/personal/csharp_helloworld/obj/Debug/net9.0/csharp_helloworld.pdb
+/Users/mattweinstein/Documents/personal/csharp_helloworld/obj/Debug/net9.0/csharp_helloworld.genruntimeconfig.cache
+/Users/mattweinstein/Documents/personal/csharp_helloworld/obj/Debug/net9.0/ref/csharp_helloworld.dll
